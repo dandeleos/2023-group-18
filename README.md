@@ -1,10 +1,10 @@
 # COMSM0110 - Group 18 (2023)
 
-##Team photo
+## Team photo
 
 To be added
 
-##Team members
+## Team members
 
 |  Name      |   Email 		|
 | -----------| ----------- |
