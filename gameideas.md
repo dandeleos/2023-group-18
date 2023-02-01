@@ -14,3 +14,5 @@ Speeds would increase at certain points in the game as you progress
 
 Also second idea: slime games anyone? can't find it online right now but 
 that's a great game
+
+That being said, would be happy to do what Dan is saying as well!
