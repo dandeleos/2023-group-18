@@ -10,7 +10,7 @@ Team photo to be added
 | Zhiyuan (Dan) Guan|     |
 | Bala Kumar	| tn22305 |
 | Charlie Knox| | 
-| Dyla Qin| 			|
+| Dyla Qin| cu22067 |
 | Yuqing Peng| |
 
 
