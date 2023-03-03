@@ -7,7 +7,7 @@ Team photo to be added
 
 |  Name      |   Email 		|
 | -----------| ----------- |
-| Zhiyuan (Dan) Guan|     |
+| Zhiyuan (Dan) Guan|cf22885 |
 | Bala Kumar	| tn22305 |
 | Charlie Knox|  ir22593 | 
 | Dyla Qin| cu22067 |
